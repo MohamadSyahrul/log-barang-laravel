@@ -57,9 +57,6 @@
                                     <a data-scroll-nav="0" href="#showcase">Portfolio</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a data-scroll-nav="0" href="#team">Team</a>
-                                </li>
-                                <li class="nav-item">
                                     <a data-scroll-nav="0" href="#blog">Blog</a>
                                 </li>
                                 <li class="nav-item">
@@ -858,89 +855,6 @@
             </div> <!-- row -->
         </div> <!-- container -->
     </section>
-    
-    <section id="team" class="team-area pt-125 pb-130">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-6">
-                    <div class="section-title text-center pb-25">
-                        <h3 class="title mb-15">Our Expert Team</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm od tempor incididunt ut labore et dolore magna aliqua.</p>
-                    </div> <!-- section title -->
-                </div>
-            </div> <!-- row -->
-            <div class="row justify-content-center">
-                <div class="col-lg-3 col-md-6 col-sm-8">
-                    <div class="single-temp text-center mt-30">
-                        <div class="team-image">
-                            <img src="{{asset('frontend/assets/images/team/t-1.jpg')}}"
-                             alt="Team">
-                        </div>
-                        <div class="team-content mt-30">
-                            <h4 class="title mb-10"><a href="#">Celina Gomez</a></h4>
-                            <span>FOUNDER</span>
-                            <ul class="social mt-15">
-                                <li><a href="#"><i class="lni-facebook-filled"></i></a></li>
-                                <li><a href="#"><i class="lni-twitter-original"></i></a></li>
-                                <li><a href="#"><i class="lni-instagram"></i></a></li>
-                            </ul>
-                        </div>
-                    </div> <!-- single temp -->
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-8">
-                    <div class="single-temp text-center mt-30">
-                        <div class="team-image">
-                            <img src="{{asset('frontend/assets/images/team/t-2.jpg')}}"
-                             alt="Team">
-                        </div>
-                        <div class="team-content mt-30">
-                            <h4 class="title mb-10"><a href="#">Patric Green</a></h4>
-                            <span>Consultant</span>
-                            <ul class="social mt-15">
-                                <li><a href="#"><i class="lni-facebook-filled"></i></a></li>
-                                <li><a href="#"><i class="lni-twitter-original"></i></a></li>
-                                <li><a href="#"><i class="lni-instagram"></i></a></li>
-                            </ul>
-                        </div>
-                    </div> <!-- single temp -->
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-8">
-                    <div class="single-temp text-center mt-30">
-                        <div class="team-image">
-                            <img src="{{asset('frontend/assets/images/team/t-3.jpg')}}"
-                             alt="Team">
-                        </div>
-                        <div class="team-content mt-30">
-                            <h4 class="title mb-10"><a href="#">Mark Parker</a></h4>
-                            <span>Business Manager</span>
-                            <ul class="social mt-15">
-                                <li><a href="#"><i class="lni-facebook-filled"></i></a></li>
-                                <li><a href="#"><i class="lni-twitter-original"></i></a></li>
-                                <li><a href="#"><i class="lni-instagram"></i></a></li>
-                            </ul>
-                        </div>
-                    </div> <!-- single temp -->
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-8">
-                    <div class="single-temp text-center mt-30">
-                        <div class="team-image">
-                            <img src="{{asset('frontend/assets/images/team/t-4.jpg')}}"
-                             alt="Team">
-                        </div>
-                        <div class="team-content mt-30">
-                            <h4 class="title mb-10"><a href="#">Daryl Dixon</a></h4>
-                            <span>Marketing Manager</span>
-                            <ul class="social mt-15">
-                                <li><a href="#"><i class="lni-facebook-filled"></i></a></li>
-                                <li><a href="#"><i class="lni-twitter-original"></i></a></li>
-                                <li><a href="#"><i class="lni-instagram"></i></a></li>
-                            </ul>
-                        </div>
-                    </div> <!-- single temp -->
-                </div>
-            </div> <!-- row -->
-        </div> <!-- container -->
-    </section>
         
     <section id="testimonial" class="testimonial-area pt-200">
         <div class="testimonial-bg bg_cover" style="background-image: url({{asset('frontend/assets/images/testimonial/ts-bg.jpg')}})"></div>
@@ -1068,91 +982,6 @@
                     </div> <!-- single blog -->
                 </div>
             </div> <!-- row -->
-        </div> <!-- container -->
-    </section>
-        
-    <section id="contact" class="contact-area pt-115">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-6">
-                    <div class="contact-title text-center">
-                        <h2 class="title">Get In Touch</h2>
-                    </div> <!-- contact title -->
-                </div>
-            </div> <!-- row -->
-            <div class="contact-box mt-70">
-                <div class="row">
-                    <div class="col-lg-4">
-                        <div class="contact-info pt-25">
-                            <h4 class="info-title">Contact Info</h4>
-                            <ul>
-                                <li>
-                                    <div class="single-info mt-30">
-                                        <div class="info-icon">
-                                            <i class="lni-phone-handset"></i>
-                                        </div>
-                                        <div class="info-content">
-                                            <p>+88 1234 56789</p>
-                                        </div>
-                                    </div> <!-- single info -->
-                                </li>
-                                <li>
-                                    <div class="single-info mt-30">
-                                        <div class="info-icon">
-                                            <i class="lni-envelope"></i>
-                                        </div>
-                                        <div class="info-content">
-                                            <p>contact@yourmail.com</p>
-                                        </div>
-                                    </div> <!-- single info -->
-                                </li>
-                                <li>
-                                    <div class="single-info mt-30">
-                                        <div class="info-icon">
-                                            <i class="lni-home"></i>
-                                        </div>
-                                        <div class="info-content">
-                                            <p>203, Envato Labs, Behind Alis Steet,Australia</p>
-                                        </div>
-                                    </div> <!-- single info -->
-                                </li>
-                            </ul>
-                        </div> <!-- contact info -->
-                    </div> 
-                    <div class="col-lg-8">
-                        <div class="contact-form">
-                            <form id="contact-form" action="{{asset('frontend/assets/contact.php')}}" method="post" data-toggle="validator">
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <div class="single-form form-group">
-                                            <input type="text" name="name" placeholder="Enter Your Name" data-error="Name is required." required="required">
-                                            <div class="help-block with-errors"></div>
-                                        </div> <!-- single form -->
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <div class="single-form form-group">
-                                            <input type="email" name="email" placeholder="Enter Your Email"  data-error="Valid email is required." required="required">
-                                            <div class="help-block with-errors"></div>
-                                        </div> <!-- single form -->
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <div class="single-form form-group">
-                                            <textarea name="message" placeholder="Enter Your Message" data-error="Please,leave us a message." required="required"></textarea>
-                                            <div class="help-block with-errors"></div>
-                                        </div> <!-- single form -->
-                                    </div>
-                                    <p class="form-message"></p>
-                                    <div class="col-lg-12">
-                                        <div class="single-form form-group">
-                                            <button class="main-btn" type="submit">CONTACT NOW</button>
-                                        </div> <!-- single form -->
-                                    </div>
-                                </div> <!-- row -->
-                            </form>
-                        </div> <!-- row -->
-                    </div> 
-                </div> <!-- row -->
-            </div> <!-- contact box -->
         </div> <!-- container -->
     </section>
         
