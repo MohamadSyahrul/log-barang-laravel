@@ -34,7 +34,7 @@
                 <div class="col-lg-12">
                     <nav class="navbar navbar-expand-lg">
                         <a class="navbar-brand" href="index.html">
-                            <img src="{{asset('frontend/assets/images/logo.png')}}" alt="Logo">
+                            <h3 class="slider-title mb-10"><span>Mebel</span></h3>
                         </a> <!-- Logo -->
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="bar-icon"></span>
@@ -200,12 +200,7 @@
                                             </div>
                                             <div class="product-item-content text-center mt-30">
                                                 <h5 class="product-title"><a href="#">Fibre Chair</a></h5>
-                                                <ul class="rating">
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                </ul>
+                                               
                                                 <span class="regular-price">$49.00</span>
                                                 <span class="discount-price">$69.00</span>
                                             </div>
@@ -221,12 +216,7 @@
                                             </div>
                                             <div class="product-item-content text-center mt-30">
                                                 <h5 class="product-title"><a href="#">Touchwood Chair</a></h5>
-                                                <ul class="rating">
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                </ul>
+                                               
                                                 <span class="regular-price">$129.00</span>
                                                 <span class="discount-price">$159.00</span>
                                             </div>
@@ -263,12 +253,7 @@
                                             </div>
                                             <div class="product-item-content text-center mt-30">
                                                 <h5 class="product-title"><a href="#">Touchwood Chair</a></h5>
-                                                <ul class="rating">
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                </ul>
+                                               
                                                 <span class="regular-price">$59.00</span>
                                                 <span class="discount-price">$69.00</span>
                                             </div>
@@ -284,12 +269,7 @@
                                             </div>
                                             <div class="product-item-content text-center mt-30">
                                                 <h5 class="product-title"><a href="#">Touchwood Chair</a></h5>
-                                                <ul class="rating">
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                </ul>
+                                               
                                                 <span class="regular-price">$59.00</span>
                                                 <span class="discount-price">$69.00</span>
                                             </div>
@@ -312,12 +292,7 @@
                                             </div>
                                             <div class="product-item-content text-center mt-30">
                                                 <h5 class="product-title"><a href="#">Touchwood Chair</a></h5>
-                                                <ul class="rating">
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                </ul>
+                                               
                                                 <span class="regular-price">$59.00</span>
                                                 <span class="discount-price">$69.00</span>
                                             </div>
@@ -333,12 +308,7 @@
                                             </div>
                                             <div class="product-item-content text-center mt-30">
                                                 <h5 class="product-title"><a href="#">Touchwood Chair</a></h5>
-                                                <ul class="rating">
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                </ul>
+                                               
                                                 <span class="regular-price">$59.00</span>
                                                 <span class="discount-price">$69.00</span>
                                             </div>
@@ -354,12 +324,7 @@
                                             </div>
                                             <div class="product-item-content text-center mt-30">
                                                 <h5 class="product-title"><a href="#">Touchwood Chair</a></h5>
-                                                <ul class="rating">
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                </ul>
+                                               
                                                 <span class="regular-price">$59.00</span>
                                                 <span class="discount-price">$69.00</span>
                                             </div>
@@ -375,12 +340,7 @@
                                             </div>
                                             <div class="product-item-content text-center mt-30">
                                                 <h5 class="product-title"><a href="#">Touchwood Chair</a></h5>
-                                                <ul class="rating">
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                </ul>
+                                               
                                                 <span class="regular-price">$59.00</span>
                                                 <span class="discount-price">$69.00</span>
                                             </div>
@@ -396,12 +356,7 @@
                                             </div>
                                             <div class="product-item-content text-center mt-30">
                                                 <h5 class="product-title"><a href="#">Touchwood Chair</a></h5>
-                                                <ul class="rating">
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                </ul>
+                                               
                                                 <span class="regular-price">$59.00</span>
                                                 <span class="discount-price">$69.00</span>
                                             </div>
@@ -424,12 +379,7 @@
                                             </div>
                                             <div class="product-item-content text-center mt-30">
                                                 <h5 class="product-title"><a href="#">Touchwood Chair</a></h5>
-                                                <ul class="rating">
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                </ul>
+                                               
                                                 <span class="regular-price">$59.00</span>
                                                 <span class="discount-price">$69.00</span>
                                             </div>
@@ -445,12 +395,7 @@
                                             </div>
                                             <div class="product-item-content text-center mt-30">
                                                 <h5 class="product-title"><a href="#">Touchwood Chair</a></h5>
-                                                <ul class="rating">
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                </ul>
+                                               
                                                 <span class="regular-price">$59.00</span>
                                                 <span class="discount-price">$69.00</span>
                                             </div>
@@ -466,12 +411,7 @@
                                             </div>
                                             <div class="product-item-content text-center mt-30">
                                                 <h5 class="product-title"><a href="#">Touchwood Chair</a></h5>
-                                                <ul class="rating">
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                </ul>
+                                               
                                                 <span class="regular-price">$59.00</span>
                                                 <span class="discount-price">$69.00</span>
                                             </div>
@@ -487,12 +427,7 @@
                                             </div>
                                             <div class="product-item-content text-center mt-30">
                                                 <h5 class="product-title"><a href="#">Touchwood Chair</a></h5>
-                                                <ul class="rating">
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                </ul>
+                                               
                                                 <span class="regular-price">$59.00</span>
                                                 <span class="discount-price">$69.00</span>
                                             </div>
@@ -508,12 +443,7 @@
                                             </div>
                                             <div class="product-item-content text-center mt-30">
                                                 <h5 class="product-title"><a href="#">Touchwood Chair</a></h5>
-                                                <ul class="rating">
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                </ul>
+                                               
                                                 <span class="regular-price">$59.00</span>
                                                 <span class="discount-price">$69.00</span>
                                             </div>
@@ -536,12 +466,7 @@
                                             </div>
                                             <div class="product-item-content text-center mt-30">
                                                 <h5 class="product-title"><a href="#">Touchwood Chair</a></h5>
-                                                <ul class="rating">
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                </ul>
+                                               
                                                 <span class="regular-price">$59.00</span>
                                                 <span class="discount-price">$69.00</span>
                                             </div>
@@ -557,12 +482,7 @@
                                             </div>
                                             <div class="product-item-content text-center mt-30">
                                                 <h5 class="product-title"><a href="#">Touchwood Chair</a></h5>
-                                                <ul class="rating">
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                </ul>
+                                               
                                                 <span class="regular-price">$59.00</span>
                                                 <span class="discount-price">$69.00</span>
                                             </div>
@@ -578,12 +498,7 @@
                                             </div>
                                             <div class="product-item-content text-center mt-30">
                                                 <h5 class="product-title"><a href="#">Touchwood Chair</a></h5>
-                                                <ul class="rating">
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                </ul>
+                                               
                                                 <span class="regular-price">$59.00</span>
                                                 <span class="discount-price">$69.00</span>
                                             </div>
@@ -599,12 +514,7 @@
                                             </div>
                                             <div class="product-item-content text-center mt-30">
                                                 <h5 class="product-title"><a href="#">Touchwood Chair</a></h5>
-                                                <ul class="rating">
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                </ul>
+                                               
                                                 <span class="regular-price">$59.00</span>
                                                 <span class="discount-price">$69.00</span>
                                             </div>
@@ -620,12 +530,7 @@
                                             </div>
                                             <div class="product-item-content text-center mt-30">
                                                 <h5 class="product-title"><a href="#">Touchwood Chair</a></h5>
-                                                <ul class="rating">
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                </ul>
+                                               
                                                 <span class="regular-price">$59.00</span>
                                                 <span class="discount-price">$69.00</span>
                                             </div>
@@ -648,12 +553,7 @@
                                             </div>
                                             <div class="product-item-content text-center mt-30">
                                                 <h5 class="product-title"><a href="#">Touchwood Chair</a></h5>
-                                                <ul class="rating">
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                </ul>
+                                               
                                                 <span class="regular-price">$59.00</span>
                                                 <span class="discount-price">$69.00</span>
                                             </div>
@@ -669,12 +569,7 @@
                                             </div>
                                             <div class="product-item-content text-center mt-30">
                                                 <h5 class="product-title"><a href="#">Touchwood Chair</a></h5>
-                                                <ul class="rating">
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                </ul>
+                                               
                                                 <span class="regular-price">$59.00</span>
                                                 <span class="discount-price">$69.00</span>
                                             </div>
@@ -690,12 +585,7 @@
                                             </div>
                                             <div class="product-item-content text-center mt-30">
                                                 <h5 class="product-title"><a href="#">Touchwood Chair</a></h5>
-                                                <ul class="rating">
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                </ul>
+                                               
                                                 <span class="regular-price">$59.00</span>
                                                 <span class="discount-price">$69.00</span>
                                             </div>
@@ -711,12 +601,7 @@
                                             </div>
                                             <div class="product-item-content text-center mt-30">
                                                 <h5 class="product-title"><a href="#">Touchwood Chair</a></h5>
-                                                <ul class="rating">
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                </ul>
+                                               
                                                 <span class="regular-price">$59.00</span>
                                                 <span class="discount-price">$69.00</span>
                                             </div>
@@ -732,12 +617,7 @@
                                             </div>
                                             <div class="product-item-content text-center mt-30">
                                                 <h5 class="product-title"><a href="#">Touchwood Chair</a></h5>
-                                                <ul class="rating">
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                    <li><i class="lni-star-filled"></i></li>
-                                                </ul>
+                                               
                                                 <span class="regular-price">$59.00</span>
                                                 <span class="discount-price">$69.00</span>
                                             </div>
@@ -992,7 +872,7 @@
                     <div class="col-lg-3 col-md-5 col-sm-7">
                         <div class="footer-logo mt-40">
                             <a href="#">
-                                <img src="{{asset('frontend/assets/images/logo.png')}}" alt="Logo">
+                                <h3 class="slider-title mb-10"><span>Mebel</span></h3>
                             </a>
                             <p class="mt-10">Gravida nibh vel velit auctor aliquetn quibibendum auci elit cons equat ipsutis sem nibh id elit.</p>
                             <ul class="footer-social mt-25">
@@ -1034,8 +914,7 @@
                                     <div class="single-footer-info mt-20">
                                         <span>Phone :</span>
                                         <div class="footer-info-content">
-                                            <p>+88123 4567 890</p>
-                                            <p>+88123 4567 890</p>
+                                            <p>+62 857 0731 2306</p>
                                         </div>
                                     </div> <!-- single footer info -->
                                 </li>
@@ -1043,8 +922,7 @@
                                     <div class="single-footer-info mt-20">
                                         <span>Email :</span>
                                         <div class="footer-info-content">
-                                            <p>contact@yourmail.com</p>
-                                            <p>support@yourmail.com</p>
+                                            <p>mochamadsahrul28@gmail.com</p>
                                         </div>
                                     </div> <!-- single footer info -->
                                 </li>
@@ -1052,7 +930,7 @@
                                     <div class="single-footer-info mt-20">
                                         <span>Address :</span>
                                         <div class="footer-info-content">
-                                            <p>5078 Jensen Key, Port Kaya, WV 73505</p>
+                                            <p>Lengkong Hamlet, Jatigedong Village, Ploso District, Jombang Regency</p>
                                         </div>
                                     </div> <!-- single footer info -->
                                 </li>
